@@ -1,6 +1,6 @@
-Glide
+#Glide
 
-Game Description
+##Game Description
 
 You play as a paper plane, in an endless level where you try to get as far
 as possible from your starting position, gathering points based on your
@@ -13,24 +13,28 @@ the distance you travel. With the addition of pickups, and the fact that
 levels are randomly generated from a set list of prefabs.
 
 
-Controls
+##Controls
 
-Keyboard:
+###Keyboard:
 
 A/left arrow key and D/Right arrow key to control the rotation. Clockwise or counterclockwise.
+
 Escape opens the menu.
+
 Mouse to select in the menu.
 
-Controller:
+###Controller:
 Left D-Pad and Right D-Pad to rotate the player
+
 Start opens up the menu.
+
 D-Pad to cycle through menu.
 
 
 Created by :
 
-Kwinten Van den Berghe
-René Vandamme
-Tobie Devries
-Cleon Mocika
-Philippe Mesotten
+* Kwinten Van den Berghe
+* RenÃ© Vandamme
+* Tobie Devries
+* Cleon Mocika
+* Philippe Mesotten    
